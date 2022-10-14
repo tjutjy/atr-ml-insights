@@ -1,0 +1,3 @@
+x：Wavenumber
+yyy：Absorbance of raw materials at different wave numbers
+	
